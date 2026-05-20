@@ -11,4 +11,4 @@
 
 - **AllanGrc** | Estudiante | Nicaragua
 - **Andy Dávila** | Ingeniería | Nicaragua
-- **Luis Zapata** | Ingenieria | Nicaragua
+- **Luis Zapata Reyes** | Ingenieria | Nicaragua
